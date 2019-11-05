@@ -1,0 +1,14 @@
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\bin\Debug\netcoreapp2.2\PortalRandkowy.Api.deps.json
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\bin\Debug\netcoreapp2.2\PortalRandkowy.Api.runtimeconfig.json
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\bin\Debug\netcoreapp2.2\PortalRandkowy.Api.runtimeconfig.dev.json
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\bin\Debug\netcoreapp2.2\PortalRandkowy.Api.dll
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\bin\Debug\netcoreapp2.2\PortalRandkowy.Api.pdb
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.csprojAssemblyReference.cache
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.csproj.CoreCompileInputs.cache
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.RazorAssemblyInfo.cache
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.RazorAssemblyInfo.cs
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.AssemblyInfoInputs.cache
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.AssemblyInfo.cs
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.RazorTargetAssemblyInfo.cache
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.dll
+G:\Aplikacja randkowa\Projekt\PortalRandkowy\PortalRadnkowy.Api\obj\Debug\netcoreapp2.2\PortalRandkowy.Api.pdb
